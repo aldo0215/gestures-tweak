@@ -1,2 +1,2 @@
 # gestures+
-This tweak enable iphone x gestures, rounded dock & hide labels.
+This tweak enable iphone x gestures, ipad status bar, rounded dock & hide labels.
