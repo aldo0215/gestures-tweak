@@ -1,9 +1,9 @@
 Package: com.aldo.gestures+
 Name: gestures+
 Depends: mobilesubstrate
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
-Description: enable iphone x gestures, rounded dock & hide labels.
+Description: enable iphone x gestures, ipad status bar, rounded dock & hide labels.
 Maintainer: aldo
 Author: aldo
 Section: Tweaks
